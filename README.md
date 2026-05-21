@@ -6,7 +6,8 @@
 <div align="center">
 
 <!-- CUSTOM BANNER — replace src with your generated image from Midjourney/DALL·E -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0d2b,100:000000&height=200&section=header&text=JAI%20SHANKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Startup%20Builder&descSize=18&descAlignY=75&descColor=a855f7&stroke=00f5ff&strokeWidth=2" width="100%"/>
+<img src="./assets/banner.png" width="100%"/>
+type=venom&color=0:000000,50:0d0d2b,100:000000&height=200&section=header&text=JAI%20SHANKAR&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Startup%20Builder&descSize=18&descAlignY=75&descColor=a855f7&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
 </div>
 
@@ -267,7 +268,7 @@ Building something that redefines how users interact with [domain]. Combining cu
 
 <div align="center">
 
-| 🏗️ Building | 📚 Learning | 🎯 Goal 2025 |
+| 🏗️ Building | 📚 Learning | 🎯 Goal 2026 |
 |:---:|:---:|:---:|
 | AgriBridge AI v2.0 | LLM Fine-tuning & RAG | Launch 2 production SaaS products |
 | aptaviro MVP | MLOps & Model deployment | 100 GitHub Stars across repos |
