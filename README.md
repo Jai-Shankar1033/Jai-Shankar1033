@@ -155,7 +155,7 @@ const JaiShankar = {
 - 🌍 Multi-language support
 - ⚡ Real-time market integration
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033)
+[![Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033/AgriBridge-AI.git)
 [![Stack](https://img.shields.io/badge/Python%20%7C%20React%20%7C%20AI%2FML-a855f7?style=for-the-badge)](https://github.com/Jai-Shankar1033)
 
 </td>
@@ -174,7 +174,7 @@ Building something that redefines how users interact with [domain]. Combining cu
 - ⚡ Real-time intelligence layer
 - 🌐 Web3-ready infrastructure
 
-[![Watch](https://img.shields.io/badge/Watch%20This%20Space-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033)
+[![Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033/Aptivaro.git)
 [![Status](https://img.shields.io/badge/Status-Stealth%20🔒-a855f7?style=for-the-badge)](https://github.com/Jai-Shankar1033)
 
 </td>
