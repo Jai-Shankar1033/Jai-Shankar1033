@@ -162,7 +162,7 @@ const JaiShankar = {
 <td width="50%" valign="top">
 
 ### 🔒 aptaviro
-> *Next-gen product — currently in stealth mode*
+> *Next-gen product — not fully updated*
 
 **Status**: Under active development 🛠️
 
