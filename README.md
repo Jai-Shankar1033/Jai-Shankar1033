@@ -1,181 +1,154 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER SECTION                               -->
-<!--   Tip: Replace the banner URL with your AI-generated custom image        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Jai%20Shankar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descSize=17&descColor=a5b4fc" width="100%"/>
+</div>
 
 <div align="center">
 
-# Jai Shankar
-### Open Source Warrior
-
-<img src="/assets/banner.png" alt="Cyber Samurai Banner" width="100%" style="; ">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=🌉+Building+EduBridge+—+offline+EdTech+for+250M%2B+rural+students;🌾+Creator+of+AgriBridge+AI+—+precision+for+every+farmer;⚡+Full+Stack+%7C+React+%2B+Supabase+%2B+PWA+%2B+Node.js;🤝+GSSoC+%2726+Open+Source+Contributor;🚀+CS+%40+KIIT+University+%7C+Shipping+Real+Products;⚡+AI%2FML+Engineer+%7C+Startup+Founder;🧠+Turning+data+into+decisions;💻+From+0+to+deployment+in+record+time)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED TYPING EFFECT                               -->
-<!--   Uses readme-typing-svg — change lines[] to update rotating text       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🤖+Building+AI+that+changes+agriculture...;⚡+Full+Stack+%2B+AI%2FML+Engineer;🌐+Open+Source+Contributor;🚀+Startup+Founder+%7C+Product+Builder;🧠+Turning+data+into+decisions;💻+From+0+to+deployment+in+record+time)](https://git.io/typing-svg)
-
-</div>
-
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Shankar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d2b)](https://www.linkedin.com/in/jai-shankar-704337312/)
-[![GitHub](https://img.shields.io/badge/GitHub-Jai--Shankar1033-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d2b)](https://github.com/Jai-Shankar1033)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jai-Shankar1033&style=for-the-badge&color=00f5ff&labelColor=0d0d2b&label=PROFILE+VIEWS)](https://github.com/Jai-Shankar1033)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-a855f7?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0d2b)](https://github.com/Jai-Shankar1033)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Shankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/jai-shankar-704337312/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jai--Shankar1033-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/Jai-Shankar1033)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jai-Shankar1033&style=for-the-badge&color=818cf8&labelColor=0f0c29&label=PROFILE+VIEWS)](https://github.com/Jai-Shankar1033)
+[![GSSoC '26](https://img.shields.io/badge/GSSoC_'26-Contributor-f97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0f0c29)](https://github.com/Jai-Shankar1033)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME SECTION                                 -->
-<!--   Glassmorphism-style layout using HTML tables for alignment             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `whoami`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">&nbsp; `whoami`
 
 ```typescript
 const JaiShankar = {
-  location    : "India 🇮🇳",
-  roles       : ["AI/ML Engineer", "Full Stack Developer", "Startup Builder", "Open Source Contributor"],
-  currentWork : "Building AgriBridge AI — AI-powered agricultural intelligence platform",
-  sideProject : "aptaviro — next-gen product in stealth 🔒",
-  askMeAbout  : ["AI/ML", "React ecosystems", "System design", "Startup scaling"],
-  learning    : ["LLM fine-tuning", "Edge AI", "MLOps pipelines"],
-  funFact     : "I debug faster at 2AM than 2PM ☕",
-  contact     : "linkedin.com/in/jai-shankar-704337312",
+  location     : "India 🇮🇳",
+  university   : "KIIT University — CS",
+  roles        : ["Full Stack Engineer", "PWA Architect", "Open Source Contributor"],
+
+  currentBuild : "EduBridge  — offline-first EdTech PWA for rural India",
+  flagship     : "AgriBridge AI — precision agriculture meets machine learning",
+  contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, career-pilot🔄 in review), DevCard 🔄 in review)",
+
+  coreStack    : ["React 18 + Vite", "Supabase + PostgreSQL", "PWA + Workbox", "Express.js"],
+  offlineFirst : ["IndexedDB", "Service Workers", "Background Sync", "Cache API"],
+  aiLayer      : ["LangChain", "TensorFlow", "OpenAI API", "RAG pipelines"],
+
+  learning     : ["GKE + Cloud Build", "LLM fine-tuning", "System Design at scale"],
+  philosophy   : "Ship working software. Iterate with users. Open-source everything useful.",
+  funFact      : "I debug faster at 2AM. The silence helps. ☕",
 };
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                      DEVELOPER PHILOSOPHY                                -->
-<!--   The "hidden section" most devs skip — makes you stand out              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## ⚡ Developer Philosophy
+## ⚡ Builder Philosophy
 
 <div align="center">
 
-> *"I don't just write code — I architect systems that outlive sprints,*
-> *build products that solve real pain, and open-source everything that*
-> *can help the next engineer level up faster than I did."*
->
-> — **Jai Shankar**
+> *"I don't build features — I build systems that work when infrastructure fails,*
+> *products that reach users who can't be reached any other way,*
+> *and open-source tools that make the next developer's life easier."*
 
 </div>
 
 | Principle | Belief |
 |:---:|:---|
-| 🎯 **Ship Fast, Iterate Faster** | MVPs beat perfection. Feedback is the real sprint planner. |
-| 🤖 **AI-First Thinking** | Every product decision I make asks: *can intelligence solve this better?* |
-| 🌱 **Open Source Always** | Knowledge hoarded is knowledge wasted. |
-| 🔥 **Depth over Breadth** | I'd rather be dangerous at a few things than mediocre at many. |
-| 🛡️ **Engineer by Day, Builder by Night** | Side projects aren't distractions — they're the real R&D lab. |
+| 🔌 **Offline First** | Real-world users don't have perfect internet. Engineer for that reality. |
+| 🚢 **Ship → Learn → Improve** | A working MVP with real users beats a perfect spec every single time. |
+| 🌱 **Open Source Always** | If it solved your problem, it will solve someone else's. Share it. |
+| 🎯 **Depth over Breadth** | One deeply understood system beats five half-understood stacks. |
+| 🤝 **Contribute Upstream** | The projects you use are built by people like you. Pay it forward. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                                    -->
-<!--   Shield.io badges with custom dark theme styling                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d2b)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0d2b)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0d2b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d0d2b)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d2b)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d0d2b)
-
 ### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d0d2b)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d0d2b)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d2b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d0d2b)
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0f0c29)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0f0c29)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0f0c29)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0f0c29)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0f0c29)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0f0c29)
 
 ### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0d2b)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0d2b)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d0d2b)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0d0d2b)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0f0c29)
+![Express](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black&labelColor=0f0c29)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0f0c29)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f0c29)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0f0c29)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0f0c29)
 
-### 🚀 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d2b)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d2b)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d0d2b)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d2b)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d2b)
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0f0c29)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0f0c29)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0f0c29)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0f0c29)
+
+### 🚀 DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0f0c29)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f0c29)
+![GKE](https://img.shields.io/badge/Google_Kubernetes-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0f0c29)
+![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0f0c29)
+![Workbox](https://img.shields.io/badge/Workbox-FF6F00?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0f0c29)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS SHOWCASE                             -->
-<!--   Premium project cards using HTML table layout                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<!-- PROJECT CARD 1: AgriBridge AI -->
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🌉 EduBridge
+> *Offline-first EdTech PWA —  Project*
+
+**The Problem** — 250M+ rural students in India have no reliable internet. Mainstream EdTech abandons them entirely.
+
+**The Solution** — EduBridge works where the internet doesn't. Lessons cached offline, gamified XP + streak system, smart background sync on reconnect.
+
+**Architecture:**
+- React 18 + Vite PWA + Workbox service workers
+- Supabase Auth + PostgreSQL + RLS policies
+- IndexedDB offline queue + Background Sync API
+- XP engine, badges, level progression, activity heatmap
+- Animated startup-quality dashboard UI
+
+[![Client](https://img.shields.io/badge/Client_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jai-Shankar1033/edubridge-client)
+[![Server](https://img.shields.io/badge/Server_Repo-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jai-Shankar1033/edubridge-server)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🌾 AgriBridge AI
 > *AI-powered agricultural intelligence platform*
 
-**The Problem**: Millions of farmers lack access to precision data — soil health, crop prediction, market prices — and lose crops to preventable causes.
+**The Problem** — Millions of Indian farmers make crop decisions without data, losing yield to causes that data could prevent.
 
-**The Solution**: AgriBridge AI bridges this gap with machine learning, delivering hyper-local insights directly to farmers.
+**The Solution** — AgriBridge AI delivers ML-powered crop intelligence directly to farmers: disease detection, yield forecasting, live market prices.
 
-**Impact**:
-- 🤖 AI crop disease detection
-- 📊 Predictive yield analytics
-- 🌍 Multi-language support
-- ⚡ Real-time market integration
+**Architecture:**
+- React 19 + Node.js + Express REST API
+- TensorFlow CV pipeline for crop disease detection
+- Satellite NDVI integration for field health
+- Drone marketplace + Razorpay payments
+- WhatsApp Business API real-time alerts
 
-[![Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033/AgriBridge-AI.git)
-[![Stack](https://img.shields.io/badge/Python%20%7C%20React%20%7C%20AI%2FML-a855f7?style=for-the-badge)](https://github.com/Jai-Shankar1033)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 aptaviro
-> *Next-gen product — not fully updated*
-
-**Status**: Under active development 🛠️
-
-Building something that redefines how users interact with [domain]. Combining cutting-edge AI with intuitive design for a product that feels like the future.
-
-**What's coming**:
-- 🧠 AI-native core architecture
-- 🎨 Glassmorphism UI/UX
-- ⚡ Real-time intelligence layer
-- 🌐 Web3-ready infrastructure
-
-[![Repo](https://img.shields.io/badge/View%20Repo-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033/Aptivaro.git)
-[![Status](https://img.shields.io/badge/Status-Stealth%20🔒-a855f7?style=for-the-badge)](https://github.com/Jai-Shankar1033)
+[![Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jai-Shankar1033/AgriBridge-AI)
+[![Stack](https://img.shields.io/badge/Python%20%7C%20React%20%7C%20TensorFlow-06B6D4?style=for-the-badge)](https://github.com/Jai-Shankar1033)
 
 </td>
 </tr>
@@ -185,130 +158,95 @@ Building something that redefines how users interact with [domain]. Combining cu
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS SECTION                              -->
-<!--   Stats, streak, top languages — the holy trinity                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🤝 Open Source — GSSoC '26
+
+Currently contributing to **GirlScript Summer of Code 2026** across multiple repositories:
+
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| **bashmanager** | No error message shown in UI when script file is missing | ✅ PR #173 Merged |
+| **github_tracker** | Improve type safety in Signup.tsx error handling | ✅ PR #359 Merged |
+| **DevCard** | Hero section mobile overflow fix | 🔄 In Review |
+| **career-pilot** | Add PropTypes to Button, Card, and Input components | 🔄 In Review |
+
+> *"Open source taught me that the best way to learn a codebase is to fix something broken in it."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- GitHub Stats Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jai-Shankar1033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&ring_color=00f5ff"/>
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Shankar1033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jai-Shankar1033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=818cf8&icon_color=06B6D4&text_color=ffffff&ring_color=818cf8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Shankar1033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=818cf8&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-Shankar1033&theme=tokyonight&hide_border=true&background=0d0d2b&stroke=00f5ff&ring=a855f7&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&sideNums=a855f7&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Jai-Shankar1033&theme=tokyonight&hide_border=true&background=0f0c29&stroke=818cf8&ring=06B6D4&fire=818cf8&currStreakLabel=818cf8&sideLabels=ffffff&sideNums=06B6D4&dates=888888" width="70%"/>
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB TROPHIES                                    -->
-<!--   Advanced section — most devs skip this entirely                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jai-Shankar1033&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH & SNAKE                              -->
-<!--   Snake animation is auto-generated by GitHub Actions workflow           -->
-<!--   Run the snake.yml workflow to generate the SVG files                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Shankar1033&bg_color=0d0d2b&color=00f5ff&line=a855f7&point=00f5ff&area=true&area_color=a855f7&hide_border=true&theme=react-dark" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jai-Shankar1033&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Shankar1033&bg_color=0f0c29&color=818cf8&line=06B6D4&point=818cf8&area=true&area_color=302b63&hide_border=true" width="98%"/>
+
+</div>
 
 <div align="center">
 
-<!-- Snake Animation — generated by GitHub Actions (see .github/workflows/snake.yml) -->
-<!-- After running the workflow, these files will exist in the output branch -->
-## Contribution Snake
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jai-Shankar1033/Jai-Shankar1033/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jai-Shankar1033/Jai-Shankar1033/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jai-Shankar1033/Jai-Shankar1033/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jai-Shankar1033/Jai-Shankar1033/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
-<div align="center">
-<p><i>"Code is poetry. AI is the ink. Problems are the canvas."</i></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY BUILDING / LEARNING                          -->
-<!--   "What I'm working on" — gives recruiters real-time signal              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🔭 Currently
 
 <div align="center">
 
-| 🏗️ Building | 📚 Learning | 🎯 Goal 2026 |
+| 🏗️ Building | 📚 Learning | 🎯 Goals 2026 |
 |:---:|:---:|:---:|
-| AgriBridge AI v2.0 | LLM Fine-tuning & RAG | Launch 2 production SaaS products |
-| aptaviro MVP | MLOps & Model deployment | 100 GitHub Stars across repos |
-| Open Source AI Tools | Edge AI & TinyML | 500+ LinkedIn connections in tech |
+| EduBridge — offline-first EdTech PWA | GKE + Cloud Build pipelines | Submit & deploy EduBridge publicly |
+| AgriBridge AI v2.0 | LLM fine-tuning + RAG architecture | 5+ merged OSS pull requests |
+| GSSoC '26 contributions | System design at scale | Land a strong engineering role |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--              CONNECT & COLLABORATION SECTION                             -->
-<!--   Recruiter CTA — often the most ignored but highest ROI section        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Build Together
+## 🤝 Let's Connect
 
 <div align="center">
 
 ```
-💼 Open to: Full-time AI/ML roles | Full Stack positions | Startup collaborations
-🌐 Remote: Preferred | On-site: Open
-💡 Interests: AI products, AgriTech, EdTech, Developer tools
-📬 Reach me: linkedin.com/in/jai-shankar-704337312
+💼  Open to: Internships · Full-time roles · Open source collaboration
+🌐  Interests: EdTech · AgriTech · Offline-first systems · PWA · AI products
+📬  Reach me: linkedin.com/in/jai-shankar-704337312
 ```
 
-[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-shankar-704337312/)
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jai-Shankar1033)
+[![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-shankar-704337312/)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jai-Shankar1033)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER QUOTE                                     -->
-<!--   Last thing recruiters see — make it memorable                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:00f5ff&height=120&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&text=Build%20things%20that%20matter.&fontSize=26&fontColor=a5b4fc&animation=twinkling&fontAlignY=68" width="100%"/>
 
 </div>
