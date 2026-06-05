@@ -184,7 +184,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Jai-Shankar1033&theme=tokyonight&hide_border=true&background=0f0c29&stroke=818cf8&ring=06B6D4&fire=818cf8&currStreakLabel=818cf8&sideLabels=ffffff&sideNums=06B6D4&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Jai-Shankar1033&theme=tokyonight&hide_border=true&background=0f0c29&stroke=818cf8&ring=06B6D4&fire=818cf8&currStreakLabel=818cf8&sideLabels=ffffff&sideNums=06B6D4&dates=888888" width="98%"/>
 
 </div>
 
