@@ -31,7 +31,7 @@ const JaiShankar = {
 
   currentBuild : "EduBridge  — offline-first EdTech PWA for rural India",
   flagship     : "AgriBridge AI — precision agriculture meets machine learning",
-  contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, career-pilot🔄 in review), DevCard 🔄 in review)",
+  contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, career-pilot 🔄 in review, DevCard 🔄 in review)",
 
   coreStack    : ["React 18 + Vite", "Supabase + PostgreSQL", "PWA + Workbox", "Express.js"],
   offlineFirst : ["IndexedDB", "Service Workers", "Background Sync", "Cache API"],
