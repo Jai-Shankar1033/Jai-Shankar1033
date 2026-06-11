@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=🌉+Building+EduBridge+—+offline+EdTech+for+250M%2B+rural+students;🌾+Creator+of+AgriBridge+AI+—+precision+for+every+farmer;⚡+Full+Stack+%7C+React+%2B+Supabase+%2B+PWA+%2B+Node.js;🤝+GSSoC+%2726+Open+Source+Contributor;🚀+CS+%40+KIIT+University+%7C+Shipping+Real+Products;⚡+AI%2FML+Engineer+%7C+Startup+Founder;🧠+Turning+data+into+decisions;💻+From+0+to+deployment+in+record+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=🌉+Building+EduBridge+—+offline+EdTech+for+250M%2B+rural+students;🌾+Creator+of+AgriBridge+AI+—+precision+for+every+farmer;⚡+Full+Stack+%7C+React+%2B+Supabase+%2B+PWA+%2B+Node.js;🤝+GSSoC+%2726+Open+Source+Contributor;🚀+CS+%40+KIIT+University+%7C+Shipping+Real+Products;🤖+AI%2FML+Engineer+%7C+Building+for+Bharat;🧠+Turning+data+into+decisions;💻+From+0+to+deployment+in+record+time)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,12 +26,12 @@
 ```typescript
 const JaiShankar = {
   location     : "India 🇮🇳",
-  university   : "KIIT University — CS",
+  university   : "KIIT University — CS '28",
   roles        : ["Full Stack Engineer", "PWA Architect", "Open Source Contributor"],
 
-  currentBuild : "EduBridge  — offline-first EdTech PWA for rural India",
+  currentBuild : "EduBridge — offline-first EdTech PWA for rural India",
   flagship     : "AgriBridge AI — precision agriculture meets machine learning",
-  contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, career-pilot 🔄 in review, DevCard 🔄 in review)",
+  contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, DevCard ✅ merged, career-pilot 🔄 in review)",
 
   coreStack    : ["React 18 + Vite", "Supabase + PostgreSQL", "PWA + Workbox", "Express.js"],
   offlineFirst : ["IndexedDB", "Service Workers", "Background Sync", "Cache API"],
@@ -105,7 +105,7 @@ const JaiShankar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -114,7 +114,7 @@ const JaiShankar = {
 <td width="50%" valign="top">
 
 ### 🌉 EduBridge
-> *Offline-first EdTech PWA —  Project*
+> *Offline-first EdTech PWA — 2026*
 
 **The Problem** — 250M+ rural students in India have no reliable internet. Mainstream EdTech abandons them entirely.
 
@@ -166,7 +166,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 |---------|-------------|--------|
 | **bashmanager** | No error message shown in UI when script file is missing | ✅ PR #173 Merged |
 | **github_tracker** | Improve type safety in Signup.tsx error handling | ✅ PR #359 Merged |
-| **DevCard** | Hero section mobile overflow fix | 🔄 In Review |
+| **DevCard** | Improve feature card readability and contrast | ✅ PR #502 Merged |
 | **career-pilot** | Add PropTypes to Button, Card, and Input components | 🔄 In Review |
 
 > *"Open source taught me that the best way to learn a codebase is to fix something broken in it."*
@@ -177,7 +177,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jai-Shankar1033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d2b&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&ring_color=00f5ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jai-Shankar1033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=818cf8&icon_color=06B6D4&text_color=ffffff&ring_color=818cf8"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Shankar1033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=818cf8&text_color=ffffff"/>
 
 </div>
@@ -191,7 +191,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 <div align="center">
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Jai-Shankar1033&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jai-Shankar1033&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6"/>
 
 </div>
 
