@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Shankar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/jai-shankar-704337312/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jai--Shankar1033-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/Jai-Shankar1033)
 [![Profile Views](https://komarev.com/ghpvc/?username=Jai-Shankar1033&style=for-the-badge&color=818cf8&labelColor=0f0c29&label=PROFILE+VIEWS)](https://github.com/Jai-Shankar1033)
-[![GSSoC '26](https://img.shields.io/badge/GSSoC_'26-Contributor-f97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0f0c29)](https://github.com/Jai-Shankar1033)
+[![GSSoC '26](https://img.shields.io/badge/GSSoC_'26-Contributor-f97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0f0c29)](https://gssoc.girlscript.org/profile/784273f2-1beb-4269-a573-b470e7685ebe)
 
 </div>
 
