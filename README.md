@@ -166,7 +166,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 |---------|-------------|--------|
 | **bashmanager** | No error message shown in UI when script file is missing | ✅ PR #173 Merged |
 | **github_tracker** | Improve type safety in Signup.tsx error handling | ✅ PR #359 Merged |
-| **DevCard** | Improve feature card readability and contrast | ✅ PR #502 Merged |
+| **DevCard** | Improve feature card readability and contrast <br> Add smooth theme transition animation|✅ PR #502 Merged <br>✅PR #536 Merged|
 | **career-pilot** | Add PropTypes to Button, Card, and Input components | 🔄 In Review |
 
 > *"Open source taught me that the best way to learn a codebase is to fix something broken in it."*
