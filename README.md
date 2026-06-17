@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=🌉+Building+EduBridge+—+offline+EdTech+for+250M%2B+rural+students;🌾+Creator+of+AgriBridge+AI+—+precision+for+every+farmer;⚡+Full+Stack+%7C+React+%2B+Supabase+%2B+PWA+%2B+Node.js;🤝+GSSoC+%2726+Open+Source+Contributor;🚀+CS+%40+KIIT+University+%7C+Shipping+Real+Products;🤖+AI%2FML+Engineer+%7C+Building+for+Bharat;🧠+Turning+data+into+decisions;💻+From+0+to+deployment+in+record+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=48&lines=🌉+Building+EduBridge+—+offline+EdTech+for+250M%2B+rural+students;🌾+Creator+of+AgriBridge+AI+—+precision+for+every+farmer;⚡+Full+Stack+%7C+React+%2B+Supabase+%2B+PWA+%2B+Node.js;🤝+GSSoC+%2726+Open+Source+Contributor;🚀+CS+%40+KIIT+University+%7C+Shipping+Real+Products;🤖+AI%2FML+Engineer+%7C+Building+for+Bharat;🧠+Turning+data+into+decisions;💻+From+0+to+ment+in+record+time)](https://git.io/typing-svg)
 
 </div>
 
@@ -215,7 +215,7 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 
 | 🏗️ Building | 📚 Learning | 🎯 Goals 2026 |
 |:---:|:---:|:---:|
-| EduBridge — offline-first EdTech PWA | GKE + Cloud Build pipelines | Submit & deploy EduBridge publicly |
+| EduBridge — offline-first EdTech PWA | GKE + Cloud Build pipelines | Submit & deploy EduBridge and AgriBridge AI publicly |
 | AgriBridge AI v2.0 | LLM fine-tuning + RAG architecture | 10+ merged OSS pull requests |
 | GSSoC '26 contributions | System design at scale | Land a strong engineering role |
 
