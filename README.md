@@ -61,7 +61,6 @@ const JaiShankar = {
 | 🚢 **Ship → Learn → Improve** | A working MVP with real users beats a perfect spec every single time. |
 | 🌱 **Open Source Always** | If it solved your problem, it will solve someone else's. Share it. |
 | 🎯 **Depth over Breadth** | One deeply understood system beats five half-understood stacks. |
-| 🤝 **Contribute Upstream** | The projects you use are built by people like you. Pay it forward. |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
