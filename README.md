@@ -29,7 +29,7 @@ const JaiShankar = {
   university   : "KIIT University — CS '28",
   roles        : ["Full Stack Engineer", "PWA Architect", "Open Source Contributor"],
 
-  currentBuild : "EduBridge — offline-first EdTech PWA for rural India , Nyayaai, Safyntra and Aptivaro",
+  currentBuild : "EduBridge — offline-first EdTech PWA for rural India , Safyntra and Aptivaro",
   flagship     : "AgriBridge AI — precision agriculture meets machine learning",
   contributing : "GSSoC '26 (bashmanager ✅ merged, github_tracker ✅ merged, DevCard ✅ merged, career-pilot 🔄 in review)",
 
