@@ -213,9 +213,9 @@ Currently contributing to **GirlScript Summer of Code 2026** across multiple rep
 
 | 🏗️ Building | 📚 Learning | 🎯 Goals 2026 |
 |:---:|:---:|:---:|
-| EduBridge — offline-first EdTech PWA | GKE + Cloud Build pipelines | Submit & deploy EduBridge, Safyntra and AgriBridge AI publicly |
+| Hardening EduBridge's sync engines | GKE + Cloud Build pipelines | Submit & deploy EduBridge, Safyntra and AgriBridge AI publicly |
 | AgriBridge AI v2.0 | LLM fine-tuning + RAG architecture | 10+ merged OSS pull requests |
-| GSSoC '26 contributions | System design at scale | Land a strong engineering role |
+|Building strong engineering role| System design at scale | Scaling open-source contributions |
 
 </div>
 
