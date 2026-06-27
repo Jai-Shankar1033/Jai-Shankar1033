@@ -35,7 +35,7 @@ const JaiShankar = {
 
   coreStack    : ["React 18 + Vite", "Supabase + PostgreSQL", "PWA + Workbox", "Express.js"],
   offlineFirst : ["IndexedDB", "Service Workers", "Background Sync", "Cache API"],
-  aiLayer      : ["LangChain", "TensorFlow", "OpenAI API", "RAG pipelines"],
+  aiLayer      : ["NLP,LangChain", "TensorFlow", "OpenAI API", "RAG pipelines"],
 
   learning     : ["GKE + Cloud Build", "LLM fine-tuning", "System Design at scale"],
   philosophy   : "Ship working software. Iterate with users. Open-source everything useful.",
