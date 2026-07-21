@@ -135,9 +135,7 @@ const JaiShankar = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0f0c29)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f0c29)
-![GKE](https://img.shields.io/badge/Google_Kubernetes-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0f0c29)
 ![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0f0c29)
-![Workbox](https://img.shields.io/badge/Workbox-FF6F00?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0f0c29)
 
 </div>
 
